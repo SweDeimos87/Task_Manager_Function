@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Task_Manager_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7100",
+      "launchBrowser": false
+    }
+  }
+}
